@@ -23,6 +23,6 @@
 | STT   | Họ tên                 | MSSV       | Vai trò     | Email                  | 
 | :---: | ---                    | ---        | ---         | ---                    | 
 | 1 | <strong> Trần Nhật Đức | 21521968   | Nhóm trưởng  | 21521968@gm.uit.edu.vn | 
-| 1 | <strong> Hồ Trung Tín | 21521536 | Thành viên | 21521536@gm.uit.edu.vn |            
+| 2 | <strong> Hồ Trung Tín | 21521536 | Thành viên | 21521536@gm.uit.edu.vn |            
 | 3 | <strong> Phạm Đức Toàn | 21521550 | Thành viên | 21521550@gm.uit.edu.vn| 
 
