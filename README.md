@@ -10,7 +10,7 @@
 * **Tên môn học:** Máy Học - Machine Learning
 * **Mã môn học:** CS114
 * **Mã lớp:** CS114.N21.KHCL
-* **Năm học:** HK2 (2022 - 2023)
+* **Năm học:** HK1 (2023 - 2024)
 
 
 ## GIẢNG VIÊN HƯỚNG DẪN
